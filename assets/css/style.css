@@ -1,0 +1,30 @@
+
+
+.my-header h1{
+  color: red;
+  text-decoration: underline;
+}
+.my-header img{
+  width: 100px;
+}
+.border{
+  background-color: purple;
+}
+.center{
+  background-color: blue;
+}
+.under{
+  background-color: blueviolet;
+}
+.right{
+  background-color: darkgoldenrod;
+}
+.top{
+  background-color: mediumspringgreen;
+}
+.margin{
+  background-color: brown;
+  border: 10px solid blueviolet;
+  padding: 50px 50px 70px 100px ;
+  margin: 50px;
+}
